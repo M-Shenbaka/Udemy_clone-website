@@ -120,7 +120,7 @@ body
     opacity: 0;
     animation-fill-mode: forwards;
 }
-/* @keyframes zoom
+@keyframes zoom
 {
     0%
     {
@@ -133,7 +133,7 @@ body
         opacity: 1;
     }
 }
-.Recommended */
+.Recommended
 {
     padding: 10px;
 }
